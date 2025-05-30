@@ -9,6 +9,6 @@ Welcome to Endless Runner, a fast-paced, low poly 3D game where you dodge obstac
 
 🕹️ Simple Controls: Keyboard or touch input for cross-platform support
 
-💥 Obstacles & Powerups: Increasing difficulty with dynamic spawns
+💥 Obstacles: Increasing difficulty with dynamic spawns
 
 🔊 Basic Sound & Music: Add atmosphere to your endless adventure
