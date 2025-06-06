@@ -12,3 +12,5 @@ Welcome to Endless Runner, a fast-paced, low poly 3D game where you dodge obstac
 💥 Obstacles: Increasing difficulty with dynamic spawns
 
 🔊 Basic Sound & Music: Add atmosphere to your endless adventure
+
+Unity Version : 2023.1.0f1
